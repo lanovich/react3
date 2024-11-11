@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Graduate&display=swap');
+
+body {
+	background: linear-gradient(104deg, rgba(53,188,253,1) -40%, rgba(53,29,140,1) 22%, rgba(28,1,41,1) 100%);
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Graduate", 'Segoe UI', 'Roboto', 'Oxygen',
+		'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 50vh;
+	transform: translate(0%, -50%);
+
+}
